@@ -1,0 +1,22 @@
+{
+  "name": "live-board",
+  "version": "1.0.0",
+  "description": "Filter data based on price of Buy and Sell.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalpeshJadvani/Live-Board.git"
+  },
+  "author": "Kalpesh Jadvani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KalpeshJadvani/Live-Board/issues"
+  },
+  "homepage": "https://github.com/KalpeshJadvani/Live-Board#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
